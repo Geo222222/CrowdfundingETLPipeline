@@ -1,4 +1,4 @@
-SELECT * FROM campaign limit 10
+SELECT * FROM crowdfunding limit 10
 
 SELECT * FROM category limit 10
 
